@@ -24,5 +24,7 @@
 **/*.gdx
 !**/MainResults.gdx
 !**/MainResults_*.gdx
+!**/all_endofmodel_*.gdx
+!**/all_endofmodel.gdx
 *.~gm
 
