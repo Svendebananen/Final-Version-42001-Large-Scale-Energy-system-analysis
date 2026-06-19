@@ -1,0 +1,28 @@
+# **/*.~*
+# **/*.gdx
+# **/*.gsp
+# /base/data/.gitignore
+# /base/data/README.md
+# **/*.accdb
+# **/*.accdbbak
+# **/*.xls*
+# **/*.mdb
+# **/*.db
+# **/*.xls*
+# **/*.bak
+# **/*.out
+# **/*.bat
+# **/*.gpr
+# **/*.dat
+# **/*.cmd
+# **/data/*.inc
+# **/model/Balmorel.l*
+# **/output/economic/*.*
+# /base/bui/gamsscr/*.*
+# GAMS output files - too large for GitHub
+*.lst
+**/*.gdx
+!**/MainResults.gdx
+!**/MainResults_*.gdx
+*.~gm
+

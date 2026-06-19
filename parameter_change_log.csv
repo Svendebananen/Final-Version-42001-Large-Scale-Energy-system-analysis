@@ -1,0 +1,5 @@
+date,author,file,parameter,old_value,new_value,reason,status
+15/05,Riccardo,GDATA.inc, investment cost+O&M cost only for Lithium-ion grid, old, DEA 2025 number, try to see if the model invests in bess even when costs are increasing compared to as is situation, waiting for analysis of results
+18/05, Martin,XKFX.inc, removed the existing connection between DK1 and NO2, 1632, 0, This is Test 1
+18/05, Martin,XKFX.inc and XINVCOST.inc, prevented new investments between DK1 and NO2 by setting the connection to 0 in XINVCOST.inc, 695800, 0, This is Test 2
+18/05, Martin,XINVCOST.inc, removed the existing connection between DK1 and NO2 and prevented new investments by setting the connection to 0 in XINVCOST.inc, 695800, 0, This is Test 3

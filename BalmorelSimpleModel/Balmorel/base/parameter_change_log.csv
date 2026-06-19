@@ -1,0 +1,3 @@
+date,author,file,parameter,old_value,new_value,reason,status
+15/05,Riccardo,GDATA.inc, investment cost+O&M cost only for Lithium-ion grid, old, DEA 2025 number, try to see if the model invests in bess even when costs are increasing compared to as is situation, waiting for analysis of results
+16/05,Riccardo,GDATA.inc, investment cost for all the BESS, original values, DEA 2025 number (same multiplier factor PEAK-GRID as in the original case), creating the baseline scenario, waiting for additional BESS 
