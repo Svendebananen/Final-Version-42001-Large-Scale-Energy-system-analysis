@@ -31,7 +31,7 @@ Some Balmorel errors were detected in the input data before simulation. See the 
 
 Solver status of the BALBASE4 model
 
-   4, at most, models to be solved.
+   3, at most, models to be solved.
 See details of input data in output\inputout\inputout.out (if associated option is set), and in particular for BB4 see output\inputout\BB4overview.out.
 
 Year    Model status returned     Solver status returned          Obj. fct. value  Iter. used  No of infeas No of nonopt
