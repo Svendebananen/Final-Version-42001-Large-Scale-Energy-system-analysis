@@ -36,25 +36,25 @@ See details of input data in output\inputout\inputout.out (if associated option 
 
 Year    Model status returned     Solver status returned          Obj. fct. value  Iter. used  No of infeas No of nonopt
         (Now to first SOLVE statement)
-2026    Optimal                      Normal completion             15896538469.23         112            0             0
+2026    Optimal                      Normal completion             14922112028.12         113            0             0
         Model was over years 2026
 * ------------------------------------------------------------------------------
 
 Since BB4 is presently in developments phase, not all addons are reimplemented for this, and those that are may be only preliminary, so be careful.
 * ------------------------------------------------------------------------------
 
-2030    Optimal                      Normal completion             25965889844.87         174            0             0
+2030    Optimal                      Normal completion             24020186306.44         159            0             0
         Model was over years 2030
 * ------------------------------------------------------------------------------
 
 Since BB4 is presently in developments phase, not all addons are reimplemented for this, and those that are may be only preliminary, so be careful.
 * ------------------------------------------------------------------------------
 
-2040    Optimal                      Normal completion             29037858644.29          87            0             0
+2040    Optimal                      Normal completion             27951588952.56          73            0             0
         Model was over years 2040
 * ------------------------------------------------------------------------------
 
 Since BB4 is presently in developments phase, not all addons are reimplemented for this, and those that are may be only preliminary, so be careful.
 * ------------------------------------------------------------------------------
 
-2050    Optimal                      Normal completion             22258525321.37         117            0             0
+2050    Optimal                      Normal completion             21683575593.98          96            0             0
