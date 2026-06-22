@@ -1,0 +1,11 @@
+Input=Balmorel.gms
+PageSize=0
+ScrDir=225n
+SysDir=C:\GAMS\53
+ScriptNext=225n\gamsnext.cmd
+LogOption=3
+AppendLog=1
+ErrMsg=1
+ErrorLog=99
+IDE=1
+LstTitleLeftAligned=1
